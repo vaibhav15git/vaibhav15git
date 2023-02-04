@@ -1,8 +1,11 @@
-👋 Hi, I’m Vaibhav......
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Vaibhav
+===============================================================================================================================
 
-👀 I’m interested in Coding
+Full Stack Web Developer
+------------------------
 
-🌱 I’m currently learning MERN Stack Development
+* 🌍  I'm based in India
+* 🧠  I'm learning Node.js Express.js MongoDB
 
 📫 How to reach me  +91 7972531287
 <!---
