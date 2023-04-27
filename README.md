@@ -13,6 +13,7 @@ As a web developer, I specialize in using cutting-edge technologies such as Java
 
 * 🌍  I'm based in India
 * 🧠  I'm learning Node.js Express.js MongoDB
+* ✉️  You can contact me at [vaibhavjaware15@gmail.com](mailto:vaibhavjaware15@gmail.com)
 * 📫 How to reach me  +91 7972531287
 
 ### Skills
