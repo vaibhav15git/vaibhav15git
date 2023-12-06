@@ -12,7 +12,7 @@ As a web developer, I specialize in using cutting-edge technologies such as Java
 
 * 🌍  I'm based in India
 * 🖥️  See my portfolio at [My Portfolio](http://vaibhav15git.github.io/)
-* ✉️  You can contact me at [vaibhavjaware15@gmail.com](mailto:vaibhavjaware15@gmail.com)
+* ✉️  You can contact me at [vaibhavjaware15@gmail.com](mailto:vaibhavjaware15@gmail.com)  &  +91  7972531287
 * 🧠  I'm learning Node.js | Express.js | MongoDB
 * ⚡  You can also ask me about Data Structures and Algorithms
 
